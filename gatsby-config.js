@@ -1,6 +1,7 @@
 const path = require('path')
 
 module.exports = {
+  pathPrefix: "/htf2",
   siteMetadata: {
     title: 'Hack the Fog 2.0',
   },
